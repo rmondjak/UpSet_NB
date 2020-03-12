@@ -1,5 +1,5 @@
 {
-	"file": "https://github.com/rmondjak/UpSet_NB/blob/master/TISSUEvsCELLS_Up1FC_fdr005.csv",
+	"file": "https://raw.github.com/rmondjak/UpSet_NB/master/TISSUEvsCELLS_Up1FC_fdr005.csv",
 	"name": "Tissue vs Cells Up 2 fold",
 	"header": 0,
 	"separator": ",",
